@@ -17,3 +17,11 @@ interface Todo2 {
   readonly description: string
   completed?: boolean
 }
+
+interface Todo3 {
+   readonly title: string
+   readonly description: string
+   readonly completed: boolean
+}
+
+
